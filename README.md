@@ -1,9 +1,13 @@
 # Small-programs
-Just training
 
+Just training
+  
 Goal : become a GOD of coding
 
+<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+
 ## Languages :
+
 - Python
 - C
 - Html, Css, Js
@@ -40,3 +44,14 @@ Goal : become a GOD of coding
 - [ ] Passwords generator B
 - [ ] Personal Finance Dashboard A
 
+### Expert level :
+- [ ] Code a game
+- [ ] Code a interactive website
+- [ ] Code a APP
+
+## Rick's projects :
+- [ ] Pomodoro x To-do list
+- [ ] Create an alexa APP
+- [ ] Create a karaoke Website/APP
+- [ ] Create an ig bot which participate automatically to giveaways
+- [ ] Create a program which calculate the exact date by adding/removing time on current date

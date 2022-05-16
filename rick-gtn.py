@@ -58,7 +58,7 @@ def compare(number, mystery, cpt):
             print(str(cpt) + " tries left")
             return (0,cpt)
     else:
-        print("Congratulations ! You found the mystery number which was : " + str(mystery) + " tries remaining : " + str(cpt))
+        print("Congratulations ! You found the mystery number which was : " + str(mystery) + ". Tries remaining : " + str(cpt))
         return (1,cpt)
 
 def inputnb(number):

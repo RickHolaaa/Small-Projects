@@ -1,5 +1,6 @@
 # Small-programs
 Just training
+Goal : become a GOD of coding
 
 ## Languages :
 - Python

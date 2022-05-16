@@ -1,5 +1,4 @@
-# Small-programs
-
+# Small-projects
 Just training
   
 Goal : become a GOD of coding

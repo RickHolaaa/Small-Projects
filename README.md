@@ -18,7 +18,7 @@ Goal : become a GOD of coding
 - I : Intermediate
 - A : Advanced
 
-## Programs :
+## Rick's Programs :
 
 ### Python :
 - [ ] Digital clock B
@@ -49,7 +49,85 @@ Goal : become a GOD of coding
 - [ ] Code a interactive website
 - [ ] Code a APP
 
-## Rick's projects :
+### Others projects :
+- [ ] Pomodoro x To-do list
+- [ ] Create an alexa APP
+- [ ] Create a karaoke Website/APP
+- [ ] Create an ig bot which participate automatically to giveaways
+- [ ] Create a program which calculate the exact date by adding/removing time on current date
+
+
+## Gautier's Programs :
+
+### Python :
+- [ ] Digital clock B
+- [ ] Converter B
+- [ ] Guess the number : computer & human version B
+- [ ] Rock Paper Scissors I
+- [ ] Tic-tac-toe : computer & human version I
+- [ ] Minesweeper I
+- [ ] Sudoku solver I
+- [ ] Quizz game B
+- [ ] Passwords generator B
+- [ ] Personal Finance Dashboard A
+
+### C :
+- [ ] Digital clock B
+- [ ] Converter B
+- [ ] Guess the number : computer & human version B
+- [ ] Rock Paper Scissors I
+- [ ] Tic-tac-toe : computer & human version I
+- [ ] Minesweeper I
+- [ ] Sudoku solver I
+- [ ] Quizz game B
+- [ ] Passwords generator B
+- [ ] Personal Finance Dashboard A
+
+### Expert level :
+- [ ] Code a game
+- [ ] Code a interactive website
+- [ ] Code a APP
+
+### Others projects :
+- [ ] Pomodoro x To-do list
+- [ ] Create an alexa APP
+- [ ] Create a karaoke Website/APP
+- [ ] Create an ig bot which participate automatically to giveaways
+- [ ] Create a program which calculate the exact date by adding/removing time on current date
+
+
+## Gilles's Programs :
+
+### Python :
+- [ ] Digital clock B
+- [ ] Converter B
+- [ ] Guess the number : computer & human version B
+- [ ] Rock Paper Scissors I
+- [ ] Tic-tac-toe : computer & human version I
+- [ ] Minesweeper I
+- [ ] Sudoku solver I
+- [ ] Quizz game B
+- [ ] Passwords generator B
+- [ ] Personal Finance Dashboard A
+
+### C :
+- [ ] Digital clock B
+- [ ] Converter B
+- [ ] Guess the number : computer & human version B
+- [ ] Rock Paper Scissors I
+- [ ] Tic-tac-toe : computer & human version I
+- [ ] Minesweeper I
+- [ ] Sudoku solver I
+- [ ] Quizz game B
+- [ ] Passwords generator B
+- [ ] Personal Finance Dashboard A
+
+### Expert level :
+- [ ] Code a game
+- [ ] Code a interactive website
+- [ ] Code a APP
+
+### Others projects :
 - [ ] Pomodoro x To-do list
 - [ ] Create an alexa APP
 - [ ] Create a karaoke Website/APP

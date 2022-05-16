@@ -95,7 +95,7 @@ Goal : become a GOD of coding
 - [ ] Create a program which calculate the exact date by adding/removing time on current date
 
 
-## Gilles's Programs :
+## Gilles' Programs :
 
 ### Python :
 - [ ] Digital clock B

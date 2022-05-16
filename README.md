@@ -23,7 +23,7 @@ Goal : become a GOD of coding
 ### Python :
 - [ ] Digital clock B
 - [ ] Converter B
-- [ ] Guess the number : computer & human version B
+- [X] Guess the number : computer & human version B
 - [ ] Rock Paper Scissors I
 - [ ] Tic-tac-toe : computer & human version I
 - [ ] Minesweeper I

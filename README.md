@@ -28,7 +28,7 @@ Goal : become a GOD of coding
 - [ ] Minesweeper I
 - [ ] Sudoku solver I
 - [ ] Quizz game B
-- [ ] Passwords generator B
+- [X] Passwords generator B
 - [ ] Personal Finance Dashboard A
 
 ### C :

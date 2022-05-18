@@ -20,7 +20,7 @@ Goal : become a GOD of coding
 ## Rick's Programs :
 
 ### Python :
-- [ ] Digital clock B
+- [X] Digital clock B
 - [ ] Converter B
 - [X] Guess the number : computer & human version B
 - [ ] Rock Paper Scissors I

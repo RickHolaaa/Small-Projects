@@ -21,7 +21,7 @@ Goal : become a GOD of coding
 
 ### Python :
 - [X] Digital clock B
-- [ ] Converter B
+- [ ] Converter I
 - [X] Guess the number : computer & human version B
 - [ ] Rock Paper Scissors I
 - [ ] Tic-tac-toe : computer & human version I

@@ -43,6 +43,10 @@ Goal : become a GOD of coding
 - [ ] Passwords generator B
 - [ ] Personal Finance Dashboard A
 
+### HTML / CSS / PHP :
+- [X] Create an online curriculum vitae
+- [ ] Create an website using PHP
+
 ### Expert level :
 - [ ] Code a game
 - [ ] Code a interactive website

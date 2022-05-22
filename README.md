@@ -23,7 +23,7 @@ Goal : become a GOD of coding
 - [X] Digital clock B
 - [ ] Converter I
 - [X] Guess the number : computer & human version B
-- [ ] Rock Paper Scissors I
+- [X] Rock Paper Scissors B
 - [ ] Tic-tac-toe : computer & human version I
 - [ ] Minesweeper I
 - [ ] Sudoku solver I

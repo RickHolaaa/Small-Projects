@@ -8,6 +8,8 @@
 
 import numpy as np
 
+# Code : 
+
 def computer():
     return np.random.randint(1,4)
 

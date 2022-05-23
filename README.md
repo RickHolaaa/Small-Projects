@@ -30,6 +30,7 @@ Goal : become a GOD of coding
 - [ ] Quizz game B
 - [X] Passwords generator B
 - [ ] Personal Finance Dashboard A
+- [ ] Cryptocurrencies alert price I
 
 ### C :
 - [ ] Digital clock B

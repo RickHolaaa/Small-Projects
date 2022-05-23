@@ -55,18 +55,100 @@ def player(tab):
         x = input("Which column ?")
     tab[y][x]=1
 
-#def win(tab):
-
+def win(tab):
+    winstatus = True
+    # Rows :
+    for i in range(len(tab)):
+        for j in range(len(tab[i])-1):
+            if tab[i][j]!=tab[i][j+1]:
+                winstatus = False
+        if((winstatus==True)and(tab[i][i]==1)):
+            return 1
+        elif((winstatus==True)and(tab[i][i]==2)):
+            return 2
+        else:
+            winstatus=True
+    # Columns :
+    for i in range(len(tab[0])):
+        for j in range(len(tab[i])-1):
+            if(tab[j][i]!=tab[j+1][i]):
+                winstatus=False
+        if((winstatus==True)and(tab[j][i]==1)):
+            return 1
+        elif((winstatus==True)and(tab[j][i]==2)):
+            return 2
+        else:
+            winstatus=True
+    # Diagonals UPLEFT to BOTTOMRIGHT :
+    for i in range(len(tab)-1):
+        if(tab[i][i]!=tab[i+1][i+1]):
+            winstatus=False
+    if((winstatus==True)and(tab[i][i]==1)):
+        return 1
+    elif((winstatus==True)and(tab[i][i]==2)):
+        return 2
+    else:
+        winstatus=False
+    # Diagonals BOTTOMLEFT to UPRIGHT :
+    for i in range(len(tab)-1):
+        if(tab[len(tab)-1-i][i]!=tab[len(tab)-i-2][i+1]):
+            winstatus=False
+    if((winstatus==True)and(tab[len(tab)-1-i][i]==1)):
+        return 1
+    elif((winstatus==True)and(tab[len(tab)-1-i][i]==2)):
+        return 2
+    tie = 0
+    for i in range(len(tab)):
+        for j in range(len(tab[0])):
+            if(tab[i][j]==0):
+                tie=1
+    if(tie==0):
+        return 0
+    else:
+        return -1
+                
 
 def game():
+    tab = init_tab()
     who = who_start()
     if(who==1):
         print("You start first !")
+        print_tab(tab)
+        player(tab)
+        print_tab(tab)
+        while(((win(tab)!=1)and(win(tab)!=2))and(win(tab)!=0)):
+            computer(tab)
+            print_tab(tab)
+            player(tab)
+            print_tab(tab)
+        if(win(tab)==1):
+            print_tab(tab)
+            print("You win !")
+        elif(win(tab)==2):
+            print_tab(tab)
+            print("Computer wins !")
+        else:
+            print_tab(tab)
+            print("It's a tie !")
     else:
         print("Computer starts first !")
+        computer(tab)
+        print_tab(tab)
+        while(((win(tab)!=1)and(win(tab)!=2))and(win(tab)!=0)):
+            player(tab)
+            print_tab(tab)
+            computer(tab)
+            print_tab(tab)
+        if(win(tab)==1):
+            print_tab(tab)
+            print("You win !")
+        elif(win(tab)==2):
+            print_tab(tab)
+            print("Computer wins !")
+        else:
+            print_tab(tab)
+            print("It's a tie !")
 
 
 # Launching :
-tab = init_tab()
-print_tab(tab)
-print(who_start())
+game()

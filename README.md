@@ -31,6 +31,7 @@ Goal : become a GOD of coding
 - [X] Passwords generator B
 - [ ] Personal Finance Dashboard A
 - [ ] Cryptocurrencies alert price I
+- [X] Extract subtitles from Youtube videos B
 
 ### C :
 - [ ] Digital clock B

@@ -1,5 +1,7 @@
 # Work only when the youtube video have a subtitle option
 
+# Option : try with different API (like LyricsGenius, ...)
+
 from youtube_transcript_api import YouTubeTranscriptApi
 video = input("Enter your youtube video url")
 lg = input("Enter your language (en for english, fr for french, ...)")

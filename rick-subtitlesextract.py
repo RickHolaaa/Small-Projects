@@ -10,3 +10,4 @@ print(video[32:43])
 srt = YouTubeTranscriptApi().get_transcript(str(video[32:43]),languages=lang)
 for i in range(len(srt)):
     print(srt[i]['text'])
+

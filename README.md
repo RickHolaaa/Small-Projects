@@ -24,7 +24,7 @@ Goal : become a GOD of coding
 - [ ] Converter I
 - [X] Guess the number : computer & human version B
 - [X] Rock Paper Scissors B
-- [ ] Tic-tac-toe : computer & human version I
+- [X] Tic-tac-toe : computer & human version I
 - [ ] Minesweeper I
 - [ ] Sudoku solver I
 - [ ] Quizz game B

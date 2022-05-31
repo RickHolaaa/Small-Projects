@@ -47,12 +47,12 @@ def computer(tab):
     tab[y][x]=2
 
 def player(tab):
-    y = input("Which line ?")
-    x = input("Which column ?")
+    y = int(input("Which line ?"))
+    x = int(input("Which column ?"))
     while(free(tab,x,y)!=1):
         print("Wrong ! Retry...")
-        y = input("Which line ?")
-        x = input("Which column ?")
+        y = int(input("Which line ?"))
+        x = int(input("Which column ?"))
     tab[y][x]=1
 
 def win(tab):

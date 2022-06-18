@@ -1,2 +1,2 @@
 
-print(move_available(game,0,0,4,1))
+        if(i==0):

@@ -698,13 +698,13 @@ def run_game():
                 y_comp = random.randint(0,9)
                 game_player,boole_comp = touch_ship(game_player,x_comp,y_comp,0)
     if(count_game(game_player)==(0,0,0,0,0)):
-        print("You win !")
+        print("You lose !")
         print("Your plate : ")
         print_game2(game_player)
         print("Computer's plate : ")
         print_game2(game_computer)
     if(count_game(game_computer)==(0,0,0,0,0)):
-        print("You lose !")
+        print("You win !")
         print("Your plate : ")
         print_game2(game_player)
         print("Computer's plate : ")

@@ -18,7 +18,7 @@ def printing():
         number = input("Let's try again... Choose a number : 1-Beginner ; 2-Intermediate ; 3-Advanced ; 4-Expert")
     if(number==1):
         print("You choose the beginner level !")
-    elif(number==2):
+    elif(number==2):1
         print("You choose the intermediate level !")
     elif(number==3):
         print("You choose the advanced level !")
